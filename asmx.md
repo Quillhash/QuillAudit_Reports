@@ -1,7 +1,7 @@
    # ASMX SMART CONTRACT AUDIT REPORT
 
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/ASMX.jpg)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/ASMX.jpg)
 
 
 
