@@ -1,7 +1,7 @@
 
 #                 BlockWRK SMART CONTRACT AUDIT REPORT
 
-  ![alt text]()
+  ![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/BLOCKWRK.jpg)
 
   
 
