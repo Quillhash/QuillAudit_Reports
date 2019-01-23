@@ -1,6 +1,6 @@
 # DISCOVERY IOT SMART CONTRACTS AUDIT REPORT
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/Discovery-IOT.jpg)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Discovery-IOT.jpg)
 
 > We've been asked by the Discovery IOT team to review and audit their smart contracts.
 
