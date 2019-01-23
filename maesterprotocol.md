@@ -1,5 +1,6 @@
-# MAESTER PROTOCOL SMART CONTRACTS AUDIT REPORT
+  #      MAESTER PROTOCOL SMART CONTRACTS AUDIT REPORT
 
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/Maester-Protocol.jpg)
 
 >We've been asked by the MaesterProtocol team to review and audit their smart contracts.
 
