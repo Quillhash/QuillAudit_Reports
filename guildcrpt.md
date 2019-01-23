@@ -1,4 +1,6 @@
-# GUILDCRYPT SMART CONTRACT AUDIT REPORT
+   #                GUILDCRYPT SMART CONTRACT AUDIT REPORT
+
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/GuildCrypt.jpg)
 
 We've been asked by the GuildCrypt team to review and audit their smart contracts.
 
