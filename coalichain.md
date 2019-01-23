@@ -1,6 +1,6 @@
 # CoaliChain Smart Contracts Audit Report
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/Coalichain.jpg)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Coalichain.jpg)
 
 >We've been asked by the Coalichain team to review and audit their smart contracts.
 
