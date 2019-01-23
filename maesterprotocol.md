@@ -1,34 +1,55 @@
-MAESTER PROTOCOL SMART CONTRACTS AUDIT REPORT
+# MAESTER PROTOCOL SMART CONTRACTS AUDIT REPORT
 
 
-We've been asked by the MaesterProtocol team to review and audit their smart contracts.
-We at QuillAudits are a team of blockchain developers , consultants and security auditors , trying to build a more secure and safe community in the Blockchain space. QuillAudits, QuillHash Smart Contracts Security Audit platform ensures the reliability of your smart contract by complete assessment of your system's architecture and your smart contract codebase.
-by QuillAudits, October 2018
-Introduction
+>We've been asked by the MaesterProtocol team to review and audit their smart contracts.
+
+We at **QuillAudits** are a team of blockchain developers , consultants and security auditors , trying to build a more secure and safe community in the Blockchain space. QuillAudits, QuillHash Smart Contracts Security Audit platform ensures the reliability of your smart contract by complete assessment of your system's architecture and your smart contract codebase.
+
+by **QuillAudits**, October 2018
+
+## Introduction
+
 This Audit Report highlights the overall security of MaesterProtocol. With this report, we have tried to ensure the reliability of their smart contract by complete assessment of their system's architecture and the smart contract codebase.
-Auditing Approach and Methodologies applied -
+
+## Auditing Approach and Methodologies applied -
+
 QuillAudit team has performed thorough testing of the project starting with analyzing the code design patterns in which we reviewed the smart contract architecture to ensure it is structured and safe use of third party smart contracts and libraries.
-Our team then performed a formal line by line inspection of the Smart Contract in order to find any potential issue like race conditions, transaction-ordering dependence, timestamp dependence, and denial of service attacks.
-In the Unit testing Phase we coded/conducted Custom unit tests written for each function in the contract to verify that each function works as expected. In Automated Testing, We tested the Smart Contract with our in-house developed tools to identify vulnerabilities and security flaws.
-The code was tested in collaboration of our multiple team members and this included -
+Our team then performed a formal line by line inspection of the Smart Contract in order to find any potential issue like race conditions, transaction-ordering dependence, timestamp dependence, and denial of service attacks
+.
+In the **Unit testing** Phase we coded/conducted Custom unit tests written for each function in the contract to verify that each function works as expected. In Automated Testing, We tested the Smart Contract with our in-house developed tools to identify vulnerabilities and security flaws.
+
+**The code was tested in collaboration of our multiple team members and this included -**
+
+```
 Testing the functionality of the Smart Contract to determine proper logic has been followed throughout.
 Analyzing the complexity of the code by thorough, manual review of the code, line-by-line.
 Deploying the code on testnet using multiple clients to run live tests.
 Analyzing failure preparations to check how the Smart Contract performs in case of bugs and vulnerabilities.
 Checking whether all the libraries used in the code are on the latest version.
 Analyzing the security of the on-chain data.
+```
 
-Summary of MaesterProtocol Smart Contract -
-The MaesterProtocol Smart contract is functionally an ERC-20 Smart Contract. The smart contract has all the functions of an ERC20 standard with the addition of a function of Crowdsale.
-Security Level references :
-Every issue in this report was assigned a severity level from the following:
-High severity issues will probably bring problems and should be fixed.
-Medium severity issues could potentially bring problems and should eventually be fixed.
-Low severity issues are minor details and warnings that can remain unfixed but would be better fixed at some point in the future.
-Unit Testing
-Test cases:
-Contract: MAP Contract, Crowdsale Contract
-✓ Should correctly initialize constructor values of Maester protocol Token Contract (561ms)
+## Summary of MaesterProtocol Smart Contract -
+
+The **MaesterProtocol** Smart contract is functionally an ERC-20 Smart Contract. The smart contract has all the functions of an ERC20 standard with the addition of a function of Crowdsale.
+
+# Security Level references :
+
+> Every issue in this report was assigned a severity level from the following:
+
+**High severity issues will probably bring problems and should be fixed.**
+
+**Medium severity issues could potentially bring problems and should eventually be fixed.**
+
+**Low severity issues are minor details and warnings that can remain unfixed but would be better fixed at some point in the future.**
+
+# Unit Testing
+
+## Test cases:
+
+**Contract: MAP Contract, Crowdsale Contract**
+```
+ ✓ Should correctly initialize constructor values of Maester protocol Token Contract (561ms)
  ✓ Should Deploy Crowdsale only (193ms)
  ✓ Should Activate Sale contract (142ms)
  ✓ Should Listing Vesting Tokens for team (151ms)
@@ -58,15 +79,18 @@ Contract: MAP Contract, Crowdsale Contract
  ✓ should decrease Approval (186ms)
  ✓ should not increase Approval for Negative Tokens
  ✓ should Not Approve address to spend Negative token
-CODE Coverage during unit Testing
-Comments:
+```
+
+
+## Comments:
+
 Overall, the code is clearly written, and demonstrates effective use of abstraction, separation of concerns, and modularity. MaesterProtocol development team demonstrated high technical capabilities, both in the design of the architecture and in the implementation.
 We found some critical issue and several additional issues that require the attention of the MaesterProtocol team. Given the subjective nature of some assessments, it will be up to the MaesterProtocol team to decide whether any changes should be made.
 
 
-You can request for Audit by filling a form :
+##You can request for Audit by filling a form :
 https://quillhash.typeform.com/to/KQ5Hhm
+
+
 Thanks for reading. Also do check out our earlier blog posts.
-QuillAudits is a secure smart contract audits platform designed by QuillHash Technologies. It is a fully automated platform to verify smart contracts to check for security vulnerabilities through it's superior manual review and automated tools. We conduct both smart contract audits and penetration tests to find potential security vulnerabilities which might harm the platform's integrity.
-To be up to date with our work, Join Our Community :-
-Telegram | Twitter | Facebook | LinkedIn
+**QuillAudits** is a secure smart contract audits platform designed by QuillHash Technologies. It is a fully automated platform to verify smart contracts to check for security vulnerabilities through it's superior manual review and automated tools. We conduct both smart contract audits and penetration tests to find potential security vulnerabilities which might harm the platform's integrity.
