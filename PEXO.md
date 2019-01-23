@@ -63,7 +63,7 @@ Discount in public Sale round Five : 0 % , Token Price : $ 1
 **Contracts Descriptions based on Testing:**
 
 ## Contract PexoToken.sol
-```
+
 **PexoToken.sol** is a Token contract that hold 400 million (Total supply) tokens initially.
 It contains all the ERC20 functionalities.
 
@@ -82,9 +82,9 @@ It contains all the ERC20 functionalities.
 **freezeAccount()** this function will stop activities of transfer, crowdsale participation of a address only called by owner.
 
 **sendBounty()** this will transfer tokens to any address, only called by owner.
-```
+
 ## Contract Crowdsale.sol
-```
+
 **authorizeKyc()** this function will white list the address to participate in a crowdsale, only by owner and multiple address can be whitelisted in one transaction.
 
 **pause()** only by owner it will stop beneficiary to participate in a contract.
@@ -134,11 +134,11 @@ It contains all the ERC20 functionalities.
 **SoftCapReached()** this function will tell if softcap reached or not, soft cap is 700000000 usd in cents.
 
 **tokenPriceInCurrentSale()** this function will return token price in current sale.
-```
+
 ## Contract TokenVesting.sol
-```
+
 **vestTokens()** this function will vest tokens, called by owner only and vesting can be done before ico is over.
-```
+
 
 # Security Level references :
 
