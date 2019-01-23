@@ -201,7 +201,7 @@ Before ABI encoding functions were introduced, keccak function accepts multiple 
 ```
 
 **Contract: BlockWRKICO**
-
+```
 ✓ Crowdsale should be ended only after end
 ✓ should reach cap if cap sent
 ✓ when the beneficiary is not the zero address when the wei amount is not zero when the total wei raised is less than the hardcap and when the crowdsale is open
@@ -216,7 +216,7 @@ Before ABI encoding functions were introduced, keccak function accepts multiple 
 ✓ emits the closeout sale event (42ms), when available tokens is not greater than zero
 ✓ Should reverts when the crowdsale has not ended
 ✓ Should reverts when the sender is not the owner
-
+```
 **Final Result of Test:**
 
 ✓ 49 passing
