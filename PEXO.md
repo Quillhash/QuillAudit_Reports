@@ -152,7 +152,7 @@ It contains all the ERC20 functionalities.
 
 >Test cases:
 
-##Contract: PexoToken Contract, Crowdsale Contract, TokenVesting Contract
+## Contract: PexoToken Contract, Crowdsale Contract, TokenVesting Contract
 ```
 ✓ Should correctly initialize constructor values of Pexo Token Contract (585ms)
 ✓ Should Deploy Crowdsale only (559ms)
