@@ -1,6 +1,6 @@
 # MYCROJOBS SMART CONTRACT AUDIT REPORT
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/MycroJobs.jpg)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/MycroJobs.jpg)
 
 >We've been asked by the Mycrojobs team to review and audit their smart contracts.
 ```
