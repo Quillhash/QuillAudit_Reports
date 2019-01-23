@@ -1,4 +1,4 @@
-# Audit Reports
+# Audit_Reports
 
 ## Smart Contracts, Blockchain , DApps Audit Reports
 
@@ -37,11 +37,11 @@ or vulnerability in your smart contract, but also suggesting the best solution t
 from those issues, individually deduced by our highly skilled auditors.
 
 
-## High Experienced Blockchain Development & Security team
-## Intelligent In-house static analyser and formal verification Tools
-## Customized audit report with in-depth representation of each identified vulnerability
-## Bug Bounty Campaign
-## Long term Affiliation models
-## Free Consultancy to improve architecture and save gas usage with free Re-evaluation
-## after initial bug fixing.
-## Best in class pricing models
+**High Experienced Blockchain Development & Security team**
+**Intelligent In-house static analyser and formal verification Tools**
+**Customized audit report with in-depth representation of each identified vulnerability**
+**Bug Bounty Campaign**
+**Long term Affiliation models**
+**Free Consultancy to improve architecture and save gas usage with free Re-evaluation**
+**after initial bug fixing**
+**Best in class pricing models**
