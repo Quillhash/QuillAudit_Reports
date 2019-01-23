@@ -1,6 +1,6 @@
    #          PEXO SMART CONTRACTS AUDIT REPORT
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/Pexo.jpg)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Pexo.jpg)
 
 We've been asked by the PEXO team to review and audit their smart contracts.
 
