@@ -1,4 +1,6 @@
-# Linkchain smart contract audit report
+   #     Linkchain smart contract audit report
+
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/Linkchain.jpg)
 
 > We've been asked by the Linkchain team to review and audit their smart contracts.
 
