@@ -1,6 +1,6 @@
    #      TravelHelper SMART CONTRACT AUDIT REPORT
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/TravelHelper.jpg)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/TravelHelper1.jpg)
 
 > We've been asked by the TravelHelper team to review and audit their smart contracts.
 
