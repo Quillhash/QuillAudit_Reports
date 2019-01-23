@@ -1,5 +1,7 @@
 # CoaliChain Smart Contracts Audit Report
 
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/Coalichain.jpg)
+
 >We've been asked by the Coalichain team to review and audit their smart contracts.
 
 We at **QuillAudits** are a team of blockchain developers , consultants and security auditors , trying to build a more secure and safe community in the Blockchain space. **QuillAudits**, QuillHash Smart Contracts Security Audit platform ensures the reliability of your smart contract by complete assessment of your system's architecture and your smart contract codebase.
