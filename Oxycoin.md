@@ -1,6 +1,6 @@
 # OxyCoin SMART CONTRACT AUDIT REPORT
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Pic/Oxycoin.jpg)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Oxycoin.jpg)
 
 > We've been asked by the OxyCoin team to review and audit their smart contracts.
 
