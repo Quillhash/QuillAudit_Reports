@@ -15,7 +15,7 @@ e09fe43816ff0d260f37664f1fda5298116a099e.
 
 # 1. Introduction
 
-This Audit Report highlights the overall security of Asmx Smart Contracts. With this report, we have tried to ensure the reliability of their smart contract by complete assessment of their smart contract codebase.
+This Audit Report highlights the overall security of LinkChain Smart Contracts. With this report, we have tried to ensure the reliability of their smart contract by complete assessment of their smart contract codebase.
 
 ## 1.1 Auditing Approach and Methodologies applied
 
