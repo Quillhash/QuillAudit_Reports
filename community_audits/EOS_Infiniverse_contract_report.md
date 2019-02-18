@@ -6,7 +6,7 @@ This document contains confidential information about potential vulnerabilities 
 Smart contract built on the top of EOSIO blockchain allow for a lot of features to be covered by tests, but the Turing completeness of C++ programming language and it’s flexibility leaves some space for unexpected runtime exceptions.
 
 ## Document Information
-![doc_info.png](https://drive.google.com/file/d/1D-H4YfNZInv9lUCgy84xSdiRmsMTXoy2/view?usp=sharing)
+![doc_info.png](https://github.com/ShivankChopra/Audit-images/blob/master/doc_info.png)
 ## Table of Contents
 -   [Reviewer Introduction]()
     
