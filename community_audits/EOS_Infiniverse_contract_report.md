@@ -5,9 +5,8 @@
 
 ### By QuillAudits, Feb 2019
 ## Disclaimer
-This document contains confidential information about potential vulnerabilities and methods of their exploitation for the intellectual property of the customer. QuillAudits does not take responsibility for misuse of the information presented in this document. We highly encourage public bug bounties and several independent audits to ensure optimum security of the smart contracts. The audit does not give any warranties on the security of the code.
-
-Smart contract built on the top of EOSIO blockchain allow for a lot of features to be covered by tests, but the Turing completeness of C++ programming language and it’s flexibility leaves some space for unexpected runtime exceptions.
+QuillAudits does not take responsibility for misuse of the information presented in this document. We highly encourage public bug bounties and several independent audits to ensure optimum security of the smart contracts. The audit does not give any warranties on the security of the code.
+Smart contract built on the top of EOSIO blockchain allow for a lot of features to be covered by tests, but the Turing completeness of C++ programming language and it's flexibility leaves some space for unexpected run time exceptions.
 
 ## Document Information
 ![doc_info.png](https://github.com/ShivankChopra/Audit-images/blob/master/doc_info.png)
