@@ -1,4 +1,8 @@
+
 # Infiniverse Smart Contract Audit Report
+
+![quillaudits](https://github.com/ShivankChopra/Audit-images/blob/master/quillaudits.png)
+
 ### By QuillAudits, Feb 2019
 ## Disclaimer
 This document contains confidential information about potential vulnerabilities and methods of their exploitation for the intellectual property of the customer. QuillAudits does not take responsibility for misuse of the information presented in this document. We highly encourage public bug bounties and several independent audits to ensure optimum security of the smart contracts. The audit does not give any warranties on the security of the code.
@@ -8,27 +12,27 @@ Smart contract built on the top of EOSIO blockchain allow for a lot of features 
 ## Document Information
 ![doc_info.png](https://github.com/ShivankChopra/Audit-images/blob/master/doc_info.png)
 ## Table of Contents
--   [Reviewer Introduction]()
+-   [Reviewer Introduction](#reviewer-introduction)
     
--   [Scope]()
+-   [Scope](#scope)
     
--   [Executive summary]()
+-   [Executive summary](#executive-summary)
     
--   [Contract Overview]()
+-   [Contract Overview](#contract-overview)
     
--   [Persistence Tables]()
+-   [Persistence Tables](#persistence-tables)
     
--   [Actions and parameters]()
+-   [Actions and parameters](#actions-and-parameters)
     
--   [Severity levels and explanation]()
+-   [Severity levels and explanation](#severity-levels-and-explanation)
     
--   [Audit Overview]()
+-   [Audit Overview](#audit-overview)
     
--   [Manual Tests on Public Testnet]()
+-   [Manual Tests on Public Testnets](#manual-tests-on-public-testnets)
     
--   [Test suite result]()
+-   [Test suite results](#test-suite-results)
     
--   [Conclusion]()
+-   [Conclusion](#conclusion)
 
 ## Reviewer Introduction
 QuillAudits, QuillHash Smart Contracts Security Audit platform ensures the reliability of your smart contract by complete assessment of your system’s architecture and your smart contract codebase. Through our automated and manual analysis we provide complete solution to identify and determine vulnerabilities and violations of the logic in the smart contract. QuillAudits considers the following distinct and crucial facets of the smart contract code: whether the code is secure, whether the code corresponds to the documentation (including whitepaper), whether the code meets best practices in code readability, efficient use of CPU, Bandwidth and RAM for EOS based smart contracts.
