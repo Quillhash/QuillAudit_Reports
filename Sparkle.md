@@ -112,13 +112,13 @@ Use **pausable** library to stop or restart smart contract functionalities.
 
 Solidity naming conventions is not followed while declaring variables.
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Sparkle_namingconv.png)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Sparkle_namingConv.png)
 
 Use solidity naming conventions to declare variables, identifiers, functions in smart contract.
 
 Slither Tool result
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Sparkle_slither.png)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Sparkel_slither.png)
 
 # Unit Testing
 
