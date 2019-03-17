@@ -84,7 +84,7 @@ No Medium Severity Issue.
 
 ## Low Severity Issues:-
 
-Solidity version must be fixed (Always use latest Version).
+1. Solidity version must be fixed (Always use latest Version).
 
 It should not pragma solidity ^0.5.0;
 It should be pragma solidity 0.5.0;
@@ -142,13 +142,13 @@ Name of a token in document : "Moon Money Chain"
 
 ## Coverage Report :
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/MoonX_Covrage.png)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/MoonX_Coverage.png)
 
 TokenA is a sample contract use to check functionality of transfer ERC20 tokens function.
 
 ## Slither Tool Result :
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/MoonX_Sparklesss.png)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/MoonX_Sparkle.png)
 
 ## Implementation Recommendations :
 
