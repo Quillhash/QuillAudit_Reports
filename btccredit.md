@@ -262,7 +262,7 @@ Self destruct by owner account
 ![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/btcTool1.png)
 
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/btcTool@2.png)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/btcTool2.png)
 
 Above functions can be declared as an external functions
 Some of the variables are not mixed case variables
