@@ -1,6 +1,6 @@
 # Audit Reports
 
-![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/Webp.net-resizeimage%20(32).png)
+![alt text](https://github.com/Quillhash/Audit_Reports/blob/master/Images/github.png)
 
 
 ## Smart Contracts, Blockchain , DApps Audit Reports
