@@ -1,6 +1,6 @@
 # Audit Reports
 
-![alt text](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Images/Facebook%2520Cover.png)
+![alt text](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Images/Notion.png)
 
 
 ## Smart Contracts, Blockchain , DApps Audit Reports
