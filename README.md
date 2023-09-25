@@ -42,26 +42,21 @@ Not all smart contracts are as **“smart”** as we think they are. Security is
 **Misconfigured functions**: In some cases, smart contracts have functions that are misconfigured, allowing attackers to exploit them and steal funds. For example, the SQUID token scam involved a misconfigured smart contract function that allowed hackers to steal $3.38 million from investors
 # Why Us ?
 
-We at **QuillAudits** are a team of experienced Blockchain architects, developers and auditors following best in class security standards to secure your smart contracts. To deliver
-this level of service to our clients, we follow a rigorous process by not only find security risk
-or vulnerability in your smart contract, but also suggesting the best solution to overcome
-from those issues, individually deduced by our highly skilled auditors.
+At **QuillAudits**, our team comprises seasoned blockchain architects, developers, and auditors who rigorously adhere to industry-leading security standards to safeguard your smart contracts. Our commitment extends beyond merely identifying security risks or vulnerabilities; we provide tailored solutions, meticulously crafted by our highly skilled auditors.
 
+- **Trusted by 50+ Exchanges for Audits**
+- Preferred Audit Partner for Core Projects on Polygon and Fuse
+- A Team of Highly Experienced Security Auditors
+- In-House Intelligent Static Analysis and Formal Verification Tools
+- Extensive Functional Testing Across Various Frameworks (e.g., Hardhat, Foundry)
+- Real-World Attack Simulation Using AI Models During Testing
+- Customized Audit Reports with Comprehensive Vulnerability Details and Executive Summaries, Ensuring Accessibility to Non-Technical Stakeholders
+- Internal Red Team and Bug Bounty Programs
+- Long-Term Affiliation Models
+- Free Consultation to Enhance Architecture and Optimize Gas Usage, with Free Re-evaluation Post Initial Bug Fixes
+- Best-In-Class Pricing without any compromise on Quality
+- A Proven Track Record: None of Our Audited Contracts Have Been Hacked
+- Post-Audit Support: We Offer Assistance for Any Queries or Concerns Arising After the Audit, Along with Exposure Through Social Channels, Free AMAs, and Connection with Developers and Security Experts Through Our Academy Initiative
+- Post-Audit Insurance Coverage: We Provide Insurance for Your Protocol, Ensuring Investor Confidence
 
-**- Highly Experienced Blockchain Development & Security team.**
-
-**- Intelligent In-house static analyser and formal verification Tools.**
-
-**- Enhanced Security Measures.**
-
-**- Customized audit report with in-depth representation of each identified vulnerability.**
-
-**- Bug Bounty Campaign.**
-
-**- Quill Red Team Assessments.**
-
-**- Strategic Long-Term Partnerships**
-
-**- Free Consultancy to improve architecture and save gas usage with free Re-evaluation after initial bug fixing.**
-
-**- Best in class pricing models.**
+Choose QuillAudits for uncompromising security and peace of mind in the world of blockchain and DApps.
