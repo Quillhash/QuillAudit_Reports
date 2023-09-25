@@ -5,7 +5,17 @@
 
 ## Smart Contracts, Blockchain , DApps Audit Reports
 
-Through our **Automated** and **Manual** analysis we provide complete solution to identify and determine vulnerabilities and violations of logic in the smart contract. **QuillAudits** considers the following distinct and crucial facets of the **smart contract** code: Whether the code is secure. Whether the code corresponds to the documentation (including whitepaper). Whether the code meets best practices in efficient use of gas, code readability, etc.
+Our comprehensive analysis framework employs both **Manual** and **Automated** methodologies to deliver a holistic solution for the identification and assessment of vulnerabilities and logic violations within smart contract code. This multifaceted approach meticulously evaluates critical dimensions of smart contract integrity:
+
+**Security Assessment**: We conduct rigorous evaluations to ascertain the security robustness of the code, probing for vulnerabilities that may expose it to malicious attacks or unauthorized access.
+
+**Documentation Alignment**: Our analysis extends beyond code examination to validate its alignment with associated documentation, including whitepapers. This ensures that the implemented code accurately reflects the intended design.
+
+**Gas Optimization**: We meticulously scrutinize the code to ensure optimal gas consumption, adhering to best practices for efficiency. This includes optimizing computational processes and minimizing resource consumption.
+
+**Code Quality**: We prioritize code readability and adherence to established best practices, enhancing maintainability and reducing the likelihood of errors or inefficiencies.
+
+Through this comprehensive approach, we empower you to deploy smart contracts with a high degree of confidence in their security, accuracy, efficiency, and adherence to industry standards.
 
 # Summary
 
@@ -17,21 +27,19 @@ Not all smart contracts are as **“smart”** as we think they are. Security is
 
 ## Some common bugs in smart contracts that got funds worth millions of dollars stolen :
 
-**Reentrancy attack** ( DAO Fiasco )
+**Insecure coding practices**: Many smart contract vulnerabilities stem from insecure coding practices, such as not properly validating inputs or not handling exceptions correctly
 
-**Ownership** of the deployed contract (Oyster pearl attack, parity attack)
+**Poor system design**: Flaws in the overall system design can lead to vulnerabilities in smart contracts. For example, a lack of proper access controls or a complex interaction between different components can create opportunities for attackers
 
-**Overflow** and **underflow** Conditions ( 2^256+1 = 0, 0-1 = 2^256 )
+**Incorrect implementation**: Mistakes in implementing the intended logic of a smart contract can result in vulnerabilities. This can include errors in the code itself or in the way the contract interacts with other components of the system
 
-**External Calls** — Every external contract call is a risk(make sure all the internal work(state condition)is complete before calling external functions)
+**Lack of proper security controls**: Smart contracts should have robust security controls in place to prevent unauthorized access or manipulation. Without these controls, attackers can exploit vulnerabilities and steal funds
 
-**Timestamp Dependence**
+**Reentrancy attacks**: A reentrancy attack is a type of vulnerability where an attacker can repeatedly call a contract's function before the previous call has finished, allowing them to drain the contract's funds. This was the case in the Parity MultiSig Wallet hack, where $31 million worth of Ether was stolen
 
-(If the contract function can tolerate a 15-second drift in time, it is safe to use block.timestamp)
+**Unchecked external calls**: Smart contracts that make external calls without properly validating the results can be vulnerable to attacks. Hackers can exploit this vulnerability to manipulate the contract's state and steal funds
 
-Storage injection vulnerability in **NEO Smart Contracts** (which allows anyone to change the token’s
-total supply limit by transferring their own tokens to an unspecified address.)
-
+**Misconfigured functions**: In some cases, smart contracts have functions that are misconfigured, allowing attackers to exploit them and steal funds. For example, the SQUID token scam involved a misconfigured smart contract function that allowed hackers to steal $3.38 million from investors
 # Why Us ?
 
 We at **QuillAudits** are a team of experienced Blockchain architects, developers and auditors following best in class security standards to secure your smart contracts. To deliver
@@ -44,11 +52,15 @@ from those issues, individually deduced by our highly skilled auditors.
 
 **- Intelligent In-house static analyser and formal verification Tools.**
 
+**- Enhanced Security Measures.**
+
 **- Customized audit report with in-depth representation of each identified vulnerability.**
 
 **- Bug Bounty Campaign.**
 
-**- Long term Affiliation models.**
+**-Red Team Assessments.**
+
+**- Strategic Long-Term Partnerships**
 
 **- Free Consultancy to improve architecture and save gas usage with free Re-evaluation after initial bug fixing.**
 
