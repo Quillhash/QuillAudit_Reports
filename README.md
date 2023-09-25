@@ -58,7 +58,7 @@ from those issues, individually deduced by our highly skilled auditors.
 
 **- Bug Bounty Campaign.**
 
-**-Red Team Assessments.**
+**- Quill Red Team Assessments.**
 
 **- Strategic Long-Term Partnerships**
 
