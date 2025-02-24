@@ -1,6 +1,6 @@
 # Audit Reports
 
-![alt text](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Images/Notion%20Cover%20–%203%20(1).png)
+![alt text](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Images/Images/Linekdin%20Profile%20cover-2.png)
 
 
 ## Smart Contracts, Blockchain , DApps Audit Reports
@@ -19,7 +19,7 @@ Through this comprehensive approach, we empower you to deploy smart contracts wi
 
 # Summary
 
-**QuillAudits** is a leading smart contract audit firm committed to securing Blockchain projects with our cutting-edge Web3 security solutions. We provide smart contracts auditing and DApps pen testing services for web3-based, DeFi and NFT-based gaming projects. With a legacy of Six years, we have secured 1000+ projects globally and saved $30B+ in the process; we continue to deliver enterprise-grade blockchain technology and state-of-the-art security solutions to leading companies and projects worldwide.
+**QuillAudits** is a leading smart contract audit firm committed to securing Blockchain projects with our cutting-edge Web3 security solutions. We provide smart contracts auditing and DApps pen testing services for web3-based, DeFi and NFT-based gaming projects. With a legacy of Seven years, we have secured 1400+ projects globally and saved $30B+ in the process; we continue to deliver enterprise-grade blockchain technology and state-of-the-art security solutions to leading companies and projects worldwide.
 
 ## Why is Security Audit Necessary?
 
@@ -55,7 +55,6 @@ At **QuillAudits**, our team comprises seasoned blockchain architects, developer
 - Long-Term Affiliation Models
 - Free Consultation to Enhance Architecture and Optimize Gas Usage, with Free Re-evaluation Post Initial Bug Fixes
 - Best-In-Class Pricing without any compromise on Quality
-- A Proven Track Record: None of Our Audited Contracts Have Been Hacked
 - Post-Audit Support: We Offer Assistance for Any Queries or Concerns Arising After the Audit, Along with Exposure Through Social Channels, Free AMAs, and Connection with Developers and Security Experts Through Our Academy Initiative
 - Post-Audit Insurance Coverage: We Provide Insurance for Your Protocol, Ensuring Investor Confidence
 
