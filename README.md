@@ -1,6 +1,6 @@
 # Audit Reports
 
-![alt text](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Images/Linekdin%2520Profile%2520cover-2.png)
+![alt text](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Images/Notion%20Cover)
 
 
 ## Smart Contracts, Blockchain , DApps Audit Reports
