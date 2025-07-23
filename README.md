@@ -3,7 +3,7 @@
 ![alt text](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Images/Notion%20Cover)
 
 
-## Smart Contracts, Blockchain , DApps Audit Reports
+## Smart Contracts, Blockchain, DApps Audit Reports
 
 Our comprehensive analysis framework employs both **Manual** and **Automated** methodologies to deliver a holistic solution for the identification and assessment of vulnerabilities and logic violations within smart contract code. This multifaceted approach meticulously evaluates critical dimensions of smart contract integrity:
 
@@ -19,7 +19,7 @@ Through this comprehensive approach, we empower you to deploy smart contracts wi
 
 # Summary
 
-**QuillAudits** is a leading smart contract audit firm committed to securing Blockchain projects with our cutting-edge Web3 security solutions. We provide smart contracts auditing and DApps pen testing services for web3-based, DeFi and NFT-based gaming projects. With a legacy of Seven years, we have secured 1400+ projects globally and saved $30B+ in the process; we continue to deliver enterprise-grade blockchain technology and state-of-the-art security solutions to leading companies and projects worldwide.
+**QuillAudits** is a leading smart contract audit firm committed to securing Blockchain projects with our cutting-edge Web3 security solutions. We provide smart contracts auditing and DApps pen testing services for web3-based, DeFi and NFT-based gaming projects. With a legacy of Seven years, we have secured 1400+ projects globally and saved $3B+ in the process; we continue to deliver enterprise-grade blockchain technology and state-of-the-art security solutions to leading companies and projects worldwide.
 
 ## Why is Security Audit Necessary?
 
